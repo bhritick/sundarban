@@ -1,0 +1,45 @@
+/* stylesheet by Anupam M */
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+.suse-h,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a.btn {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.text-shadow {
+    text-shadow: 0 2px 2px #000;
+}
+
+.text-shadow-light {
+    text-shadow: 0 2px 2px #fff;
+}
+
+.parallax {
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-1 {
+    background-image: url(https://images.pexels.com/photos/2606532/pexels-photo-2606532.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-position: center;
+}
+
+.bg-success-grad {
+    /* background: rgb(25, 135, 84);
+    background: linear-gradient(90deg, rgba(25, 135, 84, 1) 0%, rgba(25, 135, 84, 1) 24%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 100%); */
+
+    background: rgb(25, 135, 84);
+    background: linear-gradient(90deg, rgba(25, 135, 84, 1) 0%, rgba(25, 135, 84, 1) 24%, rgba(255, 193, 7, 1) 24%, rgba(255, 193, 7, 1) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 100%);
+}
