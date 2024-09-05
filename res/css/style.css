@@ -38,7 +38,8 @@ a.btn {
 }
 
 .bg-1 {
-    background-image: url(https://images.pexels.com/photos/2606532/pexels-photo-2606532.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-image: url(https://images.pexels.com/photos/340932/pexels-photo-340932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    /* background-image: url(https://images.pexels.com/photos/2606532/pexels-photo-2606532.jpeg?auto=compress&cs=tinysrgb&w=1600); */
     background-position: center;
 }
 
